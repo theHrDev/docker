@@ -12,3 +12,9 @@ Dockerfile
 Docker setup for development
 
 Lightweight container using Alpine Linux
+
+
+👩‍💻 Author
+
+Your Name
+GitHub: https://github.com/yourusername
